@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Imagineee Code Labs, SwiftO, Pixel by Pixel Games and Supeee Corporations software and games 
 
 You can use the [editor on GitHub](https://github.com/imagineeeinc/ImagineeeSoftwareStore/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
