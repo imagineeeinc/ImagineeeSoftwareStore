@@ -3,9 +3,9 @@
 All types of software for 'almost' all systems
 
 You can use [this link](https://github.com/imagineeeinc/ImagineeeSoftwareStore) for easy use of finding software.
-### Markdown
+### What can you find here?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Well to software by Imagineee code labs. Apps by swiftO. Games by pixel by pixel games. And games by Supeee Corporations created by us and sup corporations.
 
 ```markdown
 Syntax highlighted code block
