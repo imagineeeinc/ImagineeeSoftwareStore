@@ -2,7 +2,7 @@
 
 All types of software for 'almost' all systems
 
-You can use [this link] (https://github.com/imagineeeinc/ImagineeeSoftwareStore) for easy use of finding software.
+You can use [this link](https://github.com/imagineeeinc/ImagineeeSoftwareStore) for easy use of finding software.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
