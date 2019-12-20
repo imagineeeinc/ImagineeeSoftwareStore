@@ -1,9 +1,8 @@
-## Welcome to Imagineee Code Labs, SwiftO, Pixel by Pixel Games and Supeee Corporations software and games 
+# Welcome to Imagineee Code Labs, SwiftO, Pixel by Pixel Games and Supeee Corporations software and games Store
 
-You can use the [editor on GitHub](https://github.com/imagineeeinc/ImagineeeSoftwareStore/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+All types of software for 'almost' all systems
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+You can use [this link] (https://github.com/imagineeeinc/ImagineeeSoftwareStore) for easy use of finding software.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
